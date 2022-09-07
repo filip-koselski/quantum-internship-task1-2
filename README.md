@@ -1,4 +1,6 @@
-# Quantum Internship - Task 1 and Task 2
+# Quantum Internship Data Science 
+# Task 1 - What is FOR loop? 
+# Task 2 - Counting islands
 
 * ```task1.py``` file contains program that calculates the sum in range 1 and N, having positive integer number N as an input.
 
