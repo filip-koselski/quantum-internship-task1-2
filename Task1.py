@@ -7,7 +7,7 @@ import argparse
 
 def calculate_sum(N=10):
     program_starts = time.time()
-    print(f"Sum in range 1 and {N} =", np.arange(1, N+1, dtype=np.longlong).sum())
+    print(f"Sum in range 1 and {N} =", N*(N+1)/2)
     now = time.time()
     print(f"It has been {now - program_starts} seconds since the loop started")
 
